@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C102C9CF1AEF309A004F9313 /* BTRDownImage.m in Sources */ = {isa = PBXBuildFile; fileRef = C102C9CE1AEF309A004F9313 /* BTRDownImage.m */; };
 		C189581919ECF7A90003097C /* menuChat.png in Resources */ = {isa = PBXBuildFile; fileRef = C189581419ECF7A90003097C /* menuChat.png */; };
 		C189581A19ECF7A90003097C /* menuClose.png in Resources */ = {isa = PBXBuildFile; fileRef = C189581519ECF7A90003097C /* menuClose.png */; };
 		C189581B19ECF7A90003097C /* menuIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = C189581619ECF7A90003097C /* menuIcon.png */; };
@@ -49,6 +50,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C102C9CD1AEF309A004F9313 /* BTRDownImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTRDownImage.h; sourceTree = "<group>"; };
+		C102C9CE1AEF309A004F9313 /* BTRDownImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTRDownImage.m; sourceTree = "<group>"; };
 		C189581419ECF7A90003097C /* menuChat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuChat.png; sourceTree = "<group>"; };
 		C189581519ECF7A90003097C /* menuClose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuClose.png; sourceTree = "<group>"; };
 		C189581619ECF7A90003097C /* menuIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menuIcon.png; sourceTree = "<group>"; };
@@ -146,6 +149,8 @@
 				C189582019ECF8330003097C /* fmdb */,
 				C189583C19ECFBDA0003097C /* BTRSideBarCtr */,
 				C1E4C1A219EE26E100693451 /* DataHandle */,
+				C102C9CD1AEF309A004F9313 /* BTRDownImage.h */,
+				C102C9CE1AEF309A004F9313 /* BTRDownImage.m */,
 			);
 			path = Unility;
 			sourceTree = "<group>";
@@ -390,6 +395,7 @@
 				C189582E19ECF8330003097C /* FMDatabasePool.m in Sources */,
 				C189583F19ECFBDA0003097C /* BTRSiderBarCtr.m in Sources */,
 				C1DE3C9419ECD04600B51AC7 /* main.m in Sources */,
+				C102C9CF1AEF309A004F9313 /* BTRDownImage.m in Sources */,
 				C189582F19ECF8330003097C /* FMDatabaseQueue.m in Sources */,
 				C1DE3C9819ECD04600B51AC7 /* BTRAppDelegate.m in Sources */,
 				C1E4C1A519EE270600693451 /* BTRDataManager.m in Sources */,
